@@ -1,0 +1,30 @@
+{
+  "name": "nadia",
+  "version": "1.0.0",
+  "description": "Nadia",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "^2.6.10",
+    "vue-hot-reload-api": "^2.3.4"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^3.0.2",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skiv71/nadia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skiv71/nadia/issues"
+  },
+  "homepage": "https://github.com/skiv71/nadia#readme",
+  "browserslist": [
+		"last 1 Chrome version"
+	]
+}
